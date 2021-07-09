@@ -1,4 +1,6 @@
 # BeautySalon
+![preview](https://user-images.githubusercontent.com/19805491/125019219-fd7e9600-e04c-11eb-910b-7ed5364a8769.png)
+
 Site landing page feito durante a missão Origin da NLW Together
 
 ## Tecnologias
